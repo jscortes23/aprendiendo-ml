@@ -18,4 +18,4 @@ Este se encarga de mostrar un grafico del numero de clusters para determinar la 
 Este se encarga de crear un archivo CSV con la infomración agrupada por cluster (se puede determinar el numero de cluster a usar, se recomienda un numero maximo de 15)
 
 ### CargaMasiva.py
-Este se encarga de crear una base de datos en MySQL y dentro crea una tabla por cada clusters que exista. En este mismo archivo defines la conexión y nombre de la base de datos.
+Este se encarga de crear una base de datos en MySQL y dentro crea una tabla para cargar todos los datos.
